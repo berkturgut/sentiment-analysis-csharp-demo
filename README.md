@@ -24,17 +24,17 @@ This project has been developed using Google.Cloud.Language.V1, the .NET library
 
 ## Usage
 
-- ![Alt text](output-sample.png)
+- ![Alt text](/img/output-sample.png)
 
 ## Related Projects
 
 Explain which projects with similar functionality already exist and in which cases your project is a better solution.
 
 - [Using the Natural Language API with C# on Google Cloud](https://codelabs.developers.google.com/codelabs/cloud-natural-language-csharp) - Example project.
-- [.Net Documentation For Google Cloud Language](https://cloud.google.com/dotnet/docs/reference/Google.Cloud.Language.V1/latest): .Net Documentation for Google Cloud Language.
+- [.Net Documentation For Google Cloud Language](https://cloud.google.com/dotnet/docs/reference/Google.Cloud.Language.V1/latest)- .NET Documentation for Google Cloud Language.
 
 ## Credits
 - Berk Turgut
 ## License
 
-[MIT](LICENSE) © [rodrigobdz](https://github.com/rodrigobdz).
+[MIT](LICENSE) © [rodrigobdz](https://github.com/berkturgut).
