@@ -37,4 +37,4 @@ Explain which projects with similar functionality already exist and in which cas
 - Berk Turgut
 ## License
 
-[MIT](LICENSE) © [berkturgut](https://github.com/berkturgut).
+[MIT](LICENSE) © [berkturgut](https://github.com/berkturgut)
