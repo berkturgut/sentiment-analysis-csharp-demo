@@ -24,7 +24,7 @@ This project has been developed using Google.Cloud.Language.V1, the .NET library
 
 ## Usage
 
-- ![Alt text](image.png)
+- ![Alt text](output-sample.png)
 
 ## Related Projects
 
